@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing projects 
 - 🌱 I’m currently learning python full stack development
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me my linkdin profile- www.linkedin.com/in/rahul-rai-2a2b261b1
+- 📫 How to reach me my linkdin profile- www.linkedin.com/in/rahulrai200017
 
 <!---
 rahulrai17/rahulrai17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
