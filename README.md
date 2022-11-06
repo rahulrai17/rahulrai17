@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @rahulrai17
-- 👀 I’m interested in developing projects 
-- 🌱 I’m currently learning python full stack development
-- 💞️ I’m looking to collaborate on data science projects
+- 👋 Hi, I’m Rahul Rai.
 - 📫 How to reach me my linkdin profile- www.linkedin.com/in/rahulrai200017
 
 <!---
