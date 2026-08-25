@@ -1,5 +1,5 @@
 🚀 Java Full Stack Developer | Building Scalable Applications
-Hello! I'm a Java Full Stack Developer with 1+ years of experience in creating robust, scalable, and maintainable applications. My expertise lies in Java, Spring Framework, Spring Boot, and front-end technologies like HTML, CSS, and JavaScript. I'm passionate about microservices architecture, cloud technologies like Docker and Kubernetes, and continuous integration and delivery (CI/CD) with Jenkins.
+Hello! I'm a Java Full Stack Developer with around 4 years of experience in creating robust, scalable, and maintainable applications. My expertise lies in Java, Spring Framework, Spring Boot, and front-end technologies like HTML, CSS, and JavaScript. I'm passionate about microservices architecture, cloud technologies like Docker and Kubernetes, and continuous integration and delivery (CI/CD) with Jenkins.
 
 💻 Backend: Java, Spring Boot, RESTful APIs, Microservices, JDBC, ORM
 🌐 Frontend: HTML, CSS, JavaScript, React.js
